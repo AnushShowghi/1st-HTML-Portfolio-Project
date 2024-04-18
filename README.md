@@ -1,2 +1,1 @@
-# 1st-HTML-Portfolio-Project
-This is my first project (HTML Only)
+# 1st-html-project
